@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "big-integer": "^1.6.52",
+    "crypto-js": "^4.2.0",
+    "elliptic": "^6.5.5",
+    "next": "14.2.3",
+    "node-rsa": "^1.1.1",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.3"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "postcss": "^8",
